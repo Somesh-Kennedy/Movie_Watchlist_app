@@ -8,7 +8,6 @@ A React-based movie search application that allows users to search for movies us
 - 📋 **Watchlist Management**: Add and remove movies from your personal watchlist
 - 💾 **Persistent Storage**: Watchlist data is saved in browser's localStorage
 - 🎬 **Detailed Information**: View movie details including year, genre, rating, and runtime
-- 🖼️ **Movie Posters**: Display movie posters with fallback for missing images
 - 🚀 **React Router**: Seamless navigation between search and watchlist pages
 - ⚡ **Fast & Responsive**: Built with Vite for optimal performance
 
