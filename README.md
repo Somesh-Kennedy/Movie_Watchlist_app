@@ -191,6 +191,6 @@ This project is created for educational purposes.
 
 ## Contact
 
-For questions or feedback, please reach out to the project maintainer.
+For questions or feedback, please reach out to the project maintainers.
 
 ---
