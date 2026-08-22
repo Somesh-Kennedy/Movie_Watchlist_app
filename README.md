@@ -44,7 +44,6 @@ movie-search-app/
 └── package.json                # Project dependencies
 ```
 
-## Installation
 
 ### Prerequisites
 
